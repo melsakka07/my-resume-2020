@@ -1,5 +1,5 @@
-# my-resume-2020
-# my resume for the year 2020
+// my-resume-2020
+// my resume for the year 2020
 
 # MOHANAD ELSAKKA (M.Sc. EE. - TU München, Germany).
 # Senior Designer
