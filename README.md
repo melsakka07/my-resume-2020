@@ -10,7 +10,7 @@ phone: +971 55 953 1525
 linkedin: linkedin.com/in/melsakka
 github: github.com/melsakka07
 
-Profile
+# Profile
 
 A wireless and Artificial Intelligence professional who is passionate about technology with proven record of leadership and creativity in the fields of ICT business, communication systems, machine learning techniques and quantum computing.
 
@@ -62,7 +62,7 @@ Personal Quality
 •	I think clearly. I simplify complex problems and distill big decisions down to their core.
 •	It’s rarely easy. Sometimes decisions require me to make tough calls, even after considerable energy has been invested - but I own it. I stand by my deep analysis, wisdom and experience to make quality and timely decisions.
 
-Core Competence
+# Core Competence
 
 State of the Art Wireless Technologies
 
@@ -196,7 +196,7 @@ Microsoft Azure
 •	Created an Azure Machine Learning Studio Account. Dubai, UAE. August, 2019.
 •	Created an Experiment in Azure Machine Learning Studio. Dubai, UAE. August, 2019.
 
-Experience
+# Experience
 
 Senior Manager - Technology Evolution and Roadmap Planning.
 Emirates Integrated Telecommunication Company, EITC (du).
@@ -259,7 +259,7 @@ Participated in project cooperation in implementation & validation of Digital Si
 •	Worked on Dual Mode Implementation of GSM + UMTS Chip: 0.18 μm technology with more than 40M transistors, 5 metal layers and integrated Analog parts.
 •	In depth knowledge of Layer 1 technical specification in 3GPP (R5) including Channel Coding and Interleaving, Coding / Multiplexing of TrCHs, Radio Frame Size Equalization, 1st Interleaving Operation, Turbo Encoder and Decoder Algorithms, Channel Log Likelihood Ratios, Bit Error Estimation and Iterative MAP Decoding Method.
 
-Education
+# Education
 
 Master of Science in Microwave Engineering, (M.Sc. ME).
 Technischen Universität München - Munich University of Technology.
@@ -279,7 +279,7 @@ Sharjah, UAE. September 1997 - May 2001 (4 Years).
 
 Note: An Educational Credential Report has been issued for the (M.Sc.) and (B.Sc.) degrees by Comparative Educational Studies (CES) at University of Toronto, School of Continuing Studies, Canada (Ref No. CIC-000012066-IMM).
 
-Technical Skills
+# Technical Skills
 
 •	Programming languages MATLAB, C/C++, Java, Python, and Object-Oriented.
 •	Designed of high frequency circuit using (MATLAB, ADS, HFSS, Microwave Studio (CST)).
@@ -304,7 +304,7 @@ Technical Skills
 •	Deep knowledge of Apple Entitlement Server deployment options and scenarios.
 •	Applied Agile, self-service, on-demand, elastic infrastructure as code, DevOps approach, automation (phoenix, snowflake, etc..), CI & CD, deployment pipeline, and Zero-Downtime deployment strategies (Blue/Green, Canary). 5G Layer 1.
 
-Certificates and Professional Training
+# Certificates and Professional Training
 
 Attended many courses, certificates, training sessions, workshops and seminars in UAE, Germany, China, Finland, Sweden and UK. To view my credentials, please check my LinkedIn page at linkedin.com/in/melsakka.
 
@@ -443,7 +443,7 @@ Attended many courses, certificates, training sessions, workshops and seminars i
 •	Informa Telecoms & Media - IN Engineering. Dubai, UAE. May 2008.
 •	Informa Telecoms & Media - SS7 Engineering. Dubai, UAE. May 2008.
 
-Domain and Responsibilities
+# Domain and Responsibilities
 
 Domain:
 
@@ -476,7 +476,7 @@ o	Cyclic Prefix OFDM (CP-OFDM) and UFMC, FBMC, F-OFDM vs. OFDM Modulation.
 •	Developed test specifications and test process including all stakeholders and defining SLA both internally and externally for customer’s detailed device needs for the product.
 •	Performed extensive in-house terminal testing to detect early device bugs that potentially saves on enormous cost after device launched.
 
-Awards and Achievements
+# Awards and Achievements
 
 •	Awarded “Du Spot Award” for outstanding performance. Du, UAE. July 2019.
 •	Awarded “Du Spot Award” for outstanding performance. Du, UAE. March 2018.
@@ -490,34 +490,34 @@ Awards and Achievements
 •	Awarded scholarship in Munich University of Technology (TUM) 2002 - 2004.
 •	Awarded scholarship in American University of Sharjah (AUS) 1997 - 2001.
 
-Memberships
+# Memberships
 
 •	Member of IEEE, Microwave Theory and Technique (MTT Society membership).
 •	Member of IEEE, Antenna and Wave Propagation Society.
 •	Member of IEEE, Communications Society.
 
-Languages
+# Languages
 
 •	Fluent in English and Arabic languages.
 •	Excellent communication skills including professional presentations and technical reports.
 •	Very good knowledge of German language.
 
-Interests
+# Interests
 
 •	Reading and writing in the areas of Philosophy and Political Sciences.
 •	Enjoying classical music and countryside photography.
 •	Favorite sports are football, swimming and chess.
 •	Interested in cosmology and latest advancements in particle physics, standard model, and fusion technology.
 
-References
+# References
 
 Personal, professional references and technical publications are gladly furnished upon request.
 
-LinkedIn
+# LinkedIn
 
 Check my LinkedIn page at linkedin.com/in/melsakka or simply connect with me via the below QR-Code.
 
-Biography
+# Biography
 
 Brief Biography:
 
