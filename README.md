@@ -1,9 +1,9 @@
 # my-resume-2020
 # my resume for the year 2020
 
-MOHANAD ELSAKKA (M.Sc. EE. - TU München, Germany).
-Senior Designer
-5G System Engineering and AI Architect.
+# MOHANAD ELSAKKA (M.Sc. EE. - TU München, Germany).
+# Senior Designer
+# 5G System Engineering and AI Architect.
 
 e-mail: m.elsakka@me.com
 phone: +971 55 953 1525
