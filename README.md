@@ -1,11 +1,12 @@
 # my-resume-2020
-my resume for the year 2020
-MOHANAD ELSAKKA (M.Sc. EE. - TU München, Germany).	   
+# my resume for the year 2020
+
+MOHANAD ELSAKKA (M.Sc. EE. - TU München, Germany).
 Senior Designer
-5G System Engineering and AI Architect.	
+5G System Engineering and AI Architect.
 
 e-mail: m.elsakka@me.com
-phone: +971 55 953 1525	 	
+phone: +971 55 953 1525
 linkedin: linkedin.com/in/melsakka
 github: github.com/melsakka07
 
@@ -61,9 +62,9 @@ Personal Quality
 •	I think clearly. I simplify complex problems and distill big decisions down to their core.
 •	It’s rarely easy. Sometimes decisions require me to make tough calls, even after considerable energy has been invested - but I own it. I stand by my deep analysis, wisdom and experience to make quality and timely decisions.
 
-Core Competence (1/4)
+Core Competence
 
-State of the Art Wireless Technologies	 
+State of the Art Wireless Technologies
 
 More than 15 years of rich international experience and outstanding academic knowledge obtained from the cutting-edge technology firms and the finest educational institutions in the world, covering 2G, 3G, 4G, 5G communication systems and standardization with passion in planning and design.
 
@@ -74,15 +75,15 @@ Digital Transformation Planning / Consulting
 •	Worked with multi-functional Architecture, HW, SW and System organizations to enable progress on dependencies for Silicon definitions and ramp.
 •	Worked closely with chip Integration and system teams to drive high level achievements.
 
-5G Core Architecture 
+5G Core Architecture
 •	Crystal clear understanding of access technologies (3GPP R15 and R16 5G-NR) from ground-up starting from physical channels and modulation architecture all the way towards 5G core elements, service-based design, network slicing, automation, orchestration and its related APIs. 
 •	A very good friend to the following 3GPP Specifications: TS 23.501, 23.502, 23.503 and 33.501 with deep understanding of the purpose and role of AMF, SMF, UPF, UDM/AUSF/EIR, UDR/UDSF, SEPP/BSF, PCF, NRF, NSSF, NEF, N3IWF and ATSSS. In-depth knowledge of system architectures including 4G and 5G, Mobility Management and Session Management Procedures, 3GPP protocols of terminal/RAN (RRC), core network (NAS), and all related policy and charging control functions.
 •	Planned and deployed Cloud IMS, 4G and 5G services and design for voice, data, charging, online charging, offline charging, and network slice function.
 
-5G Access Architecture	
+5G Access Architecture
 •	A champion, with deep academic knowledge and industrial hands-on experience in wireless silicon chipset full cycle design (Hardware/Software), satellite communications, RF engineering, antennas, and Digital Signal Processing. Possess strong analytical skills and fundamental grasp of mobile communications theoretical concepts in all forward-looking wireless technologies such as radio wave propagation, mmWave, beam forming, massive MIMO, device RF implementation, and system performance. Performed many 5G waveform simulation MATLAB.
 
-5G Security Architecture 
+5G Security Architecture
 •	Familiar with 5G system Security architecture and procedures including Security domains, Security entity at the perimeter of the 5G Core network (SEPP), and Security entities in the 5G Core network (AUSF, ARPF, SIDF, and SEAF). 
 •	Good understanding of Security requirements and features including 5G security requirements on the UE, gNB, ng-eNB, service-based architecture, e2e core network interconnection security, visibility and configurability.
 
@@ -98,9 +99,7 @@ IoT / LPWA and M2M
 Digital Platforms
 •	Planned, deployed and managed several Digital Enablement Platforms such as Location Based Systems (LBS), Embedded SIM (eSIM), ETSI Multi-Access Edge Computing (MEC) for (Intelligent Transport Systems (ITS), Roadside Unite (RSUs), Online Gaming, Virtual/Augmented Reality), Cellular Vehicle to Anything (C-V2X).
 
-Core Competence (2/4)
-
-Standardizations, Researches and Presentations	 
+Standardizations, Researches and Presentations
 
 Member of International Telecommunications Union (ITU-T) Study Group 20 “SG20: Internet of Things (IoT), Smart Cities and Communities (SC&C)”, Geneva, Switzerland. Represented “du” in ITU-T SG20 as an Associate Rapporteur for Q3/20 of “IoT Architectures, Protocols, Security and Quality of Service.” Geneva, Switzerland.
 
@@ -113,8 +112,8 @@ Whitepapers
 •	Co-author of a whitepaper “EITC 5G Deterministic Network Empowers Thousands of Industries”. 
 •	Link to the paper: https://lnkd.in/f97Phue
 
-LinkedIn Articles 
-•	Author of LinkedIn article: “5G Network Slicing, the Promise and Requirements”. 
+LinkedIn Articles
+•	Author of LinkedIn article: “5G Network Slicing, the Promise and Requirements”.
 •	Link to the article: https://tinyurl.com/tos3lzr
 •	Author of LinkedIn article: “Quantum Machine Learning”.
 •	Link to the article: https://tinyurl.com/r9bnf2v
@@ -125,16 +124,13 @@ Book Review
 
 Presentations
 •	Presented several workshops at Telecommunication Regularity Authority (TRA) in United Arab Emirates:
-•	“Bridging the Standardization Gap” for ITU World Telecomm. & Information Society Day. Dubai, May 2019.
-•	“Multi-Access Edge Computing Use Cases and Applications” for ITU IMT2020, SWG2. Dubai, October 2017.
-•	“Mission Critical IoT Communication in 5G” for ITU IMT2020, SWG2 Committee #2. Dubai, September 2017
+•	“Bridging the Standardization Gap” for ITU World Telecomm. & Information Society Day. Dubai, May 2019.•	“Multi-Access Edge Computing Use Cases and Applications” for ITU IMT2020, SWG2. Dubai, October 2017.
+•	“Mission Critical IoT Communication in 5G” for ITU IMT2020, SWG2 Committee #2. Dubai, September 2017.
 
 Guest Speaker
 •	Guest Speaker at Polystar User Group: “Business Intelligence & Analytics in the Era of (NFV), and (SDN) of 5G Networks.” Stockholm, October 2017.
 
-Core Competence (3/4) 
-
-Artificial Intelligence and Quantum Computing	 
+Artificial Intelligence and Quantum Computing
 
 Artificial Intelligence are critical to drive business transformation. Fusing Artificial Intelligence and IoT will catalyze new digital value creation for Communications Service Providers (CSPs) and Enterprises as Artificial Intelligence and the Internet of Things strongly complement each other, with each technology's strength addressing the other's weakness. On the other hand, the current quantum computing for machine learning is transitioning from a research topic to a technology that unlocks new computational capabilities. We are only one creative algorithm away from valuable near-term applications.
 
@@ -163,10 +159,8 @@ Python NLP and GANs
 
 Cloudera Spark
 •	Obtained rich experience in Cloudera Apache Spark for Machin Learning including Apache Hadoop and its related tools such as (MR, Spark, Pig, Hive, Impala, SparkSQL, SparkML, and SparkCore).
- 
-Core Competence (4/4)
 
-Cloud Projects and ML	 
+Cloud Projects and ML
 
 Accomplished many Wireless, cloud and ML projects in Azure, Amazon AWS and Google Cloud Platform (GCP). Please check my Github page to view some of the projects listed here github.com/melsakka07
 
@@ -202,7 +196,7 @@ Microsoft Azure
 •	Created an Azure Machine Learning Studio Account. Dubai, UAE. August, 2019.
 •	Created an Experiment in Azure Machine Learning Studio. Dubai, UAE. August, 2019.
 
-Experience (1/2)
+Experience
 
 Senior Manager - Technology Evolution and Roadmap Planning.
 Emirates Integrated Telecommunication Company, EITC (du).
@@ -222,7 +216,6 @@ Network Planning and Strategy:
 •	I have experience advising on technical business transformation solutions for large enterprises and experience in a consultative pre-sales engineering and planning role.
 
 Major Achievements:
-
 •	Technical Lead for du 1st 5G NSA Option 3x deployment using 3GPP R14 5G NR achieving throughput 1.2 Gbps.
 •	Implemented with an amazing team EPC core and radio preparation for 5G NSA Option 3x by utilizing CUPS and network slicing feature for smooth evolution to 5G SA.
 •	Planned and Designed Fixed wireless access (FTTx/WTTx) using 4G and 5G NR Technologies.
@@ -234,8 +227,6 @@ Major Achievements:
 •	Led terminal technology team responsible for du technical acceptance and quality validation for all terminals/mobile devices in du network and UAE market.
 •	Led Interoperability technical testing for mobile devices, data dongles, IoT devices and gateways (using data processing testing tools such as QXDM, STT, TEMS, Actix, HiSilicon).
 •	In depth study of the new ETSI NFV Release 3 features that are closely relate to 5G including: “Support for network slicing in NFV”: GS NFV-IFA 030, “Management over multi-administrative domains”: GS NFV-IFA 032 and “Multi-site network connectivity”. This study of the specifications is intended to allow and plan implementations to easily combine the du 3GPP Network Resource Model (NRM) with the ETSI NFV Information Model. 
-
-Experience (2/2)
 
 Senior Engineer - Packet Switching Solution Architect.
 Huawei Technologies.
@@ -259,7 +250,7 @@ Tested and validated of 2-port Vector Network Analyzer VNA, including design, an
 •	Tracked project schedule for all phases of Silicon-on-Chip design from IP and System definition to Design, Prototyping, Silicon/System Bring-up and Production.
 
 Research Engineer (R&D).
-Infineon Technologies (AG). 
+nfineon Technologies (AG). 
 Advanced Concepts, WCDMA Implementation.
 Munich, Germany. January 2003 - March 2004 (1 Year).
 
@@ -283,7 +274,7 @@ American University of Sharjah.
 School of Engineering, Electrical Engineering.
 Sharjah, UAE. September 1997 - May 2001 (4 Years).
 
-•	Thesis: “Modelling of Electromagnetic Impacts of Mobile Antenna's Radiations on Human Head.” 
+•	Thesis: “Modelling of Electromagnetic Impacts of Mobile Antenna's Radiations on Human Head.”
 •	Design project final grade “A”. GPA “3.0” (highest 4.0 lowest 1.0).
 
 Note: An Educational Credential Report has been issued for the (M.Sc.) and (B.Sc.) degrees by Comparative Educational Studies (CES) at University of Toronto, School of Continuing Studies, Canada (Ref No. CIC-000012066-IMM).
@@ -311,9 +302,9 @@ Technical Skills
 •	Presented analytical results and issues to higher managements, business and technical stakeholders to raise awareness to assist of making important decisions.
 •	Designed and validated IoT connectivity including LoRa, ECGPRS, NB-IoT.
 •	Deep knowledge of Apple Entitlement Server deployment options and scenarios.
-•	Applied Agile, self-service, on-demand, elastic infrastructure as code, DevOps approach, automation (phoenix, snowflake, etc..), CI & CD, deployment pipeline, and Zero-Downtime deployment strategies (Blue/Green, Canary). 5G Layer 1. 
+•	Applied Agile, self-service, on-demand, elastic infrastructure as code, DevOps approach, automation (phoenix, snowflake, etc..), CI & CD, deployment pipeline, and Zero-Downtime deployment strategies (Blue/Green, Canary). 5G Layer 1.
 
-Certificates and Professional Training (1/4)
+Certificates and Professional Training
 
 Attended many courses, certificates, training sessions, workshops and seminars in UAE, Germany, China, Finland, Sweden and UK. To view my credentials, please check my LinkedIn page at linkedin.com/in/melsakka.
 
@@ -321,10 +312,8 @@ Attended many courses, certificates, training sessions, workshops and seminars i
 •	Quantum Computing & Quantum Internet Professional Certificate.
 •	Delft - QTM3x: Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet.
 •	Delft - QTM2x: The Hardware of a Quantum Computer.
-•	Harvard ManageMentor Certificate: Dubai, UAE. 1 October 2013 to 30 March 2014.
-•	Introduction to Deep Learning, MIT 6.S191.
-•	Deep Learning for Self-driving Cars in January 2019, MIT 6.S094.
-•	Deep Reinforcement Learning in January 2019, MIT 6.S091.
+•	Harvard ManageMentor Certificate: Dubai, UAE. 1 October 2013 to 30 March 2014.•	Introduction to Deep Learning, MIT 6.S191.
+•	Deep Learning for Self-driving Cars in January 2019, MIT 6.S094.•	Deep Reinforcement Learning in January 2019, MIT 6.S091.
 •	Human Centered Artificial Intelligence in January 2019, MIT 6.S093.
 •	TUM - UMTS Fundamentals. Munich, Germany. March 2004.
 •	TUM - Microwaves Devices in Tele. Networks. Munich, Germany. February 2004
@@ -339,9 +328,6 @@ Attended many courses, certificates, training sessions, workshops and seminars i
 •	Microsoft - DAT256x: Essential Math for Machine Learning: Python Edition Certificate.
 •	Microsoft - DAT257x: Reinforcement Learning Explained Certificate.
 •	Microsoft - DAT263x: Introduction to Artificial Intelligence (AI) Certificate.
-
-Certificates and Professional Training (2/4)
-
 •	Deep Learning, AI, TF and Python: Udemy. Dubai, UAE. April to October 2019.
 •	Complete Guide to TensorFlow for Deep Learning with Python. Udemy. Dubai, UAE. April to October 2019.
 •	Complete Python Bootcamp: Python 3. Udemy.  Dubai, UAE. April to October 2019.
@@ -390,9 +376,6 @@ Certificates and Professional Training (2/4)
 •	Introduction to Amazon SageMaker Ground Truth. 29 July, 2019.
 •	Introduction to Amazon SageMaker Neo. 29 July, 2019.
 •	Introduction to Amazon SageMaker. 29 July, 2019.
-
-Certificates and Professional Training (3/4)
-
 •	Developing Machine Learning Applications. 29 July, 2019.
 •	Introduction to Amazon Comprehend Medical. 29 July, 2019.
 •	Anomaly Detection on AWS. 28 July, 2019.
@@ -429,9 +412,6 @@ Certificates and Professional Training (3/4)
 •	Fundamentals of 4G Small Cell Deployments: IEEE Comm. Society, IEEE Continuing Edu. Dubai, UAE. 4 March 2014.
 •	ITILv3, Information Technology Infrastructure Library: Du University. Dubai, UAE. 6 to 10 April 2014.
 •	Development of Leadership Skills: Michigan State University, IEEE. Dubai, UAE. 13 to 14 February 2010.
- 
-Certificates and Professional Training (4/4)
-
 •	Huawei Packet Core Advanced Planning. Shenzhen, China. June 2009.
 •	Huawei Packet Core Advanced Signaling. Shenzhen, China. June 2009.
 •	Huawei SGSN Planning. Shenzhen, China. June 2009.
@@ -509,7 +489,7 @@ Awards and Achievements
 •	Awarded “Outstanding Technical Performance Advancement”, Huawei, UAE. May 2006.
 •	Awarded scholarship in Munich University of Technology (TUM) 2002 - 2004.
 •	Awarded scholarship in American University of Sharjah (AUS) 1997 - 2001.
- 
+
 Memberships
 
 •	Member of IEEE, Microwave Theory and Technique (MTT Society membership).
@@ -547,4 +527,4 @@ Extended Biography:
 
 Mohanad ElSakka (m.elsakka@me.com) obtained his B.Sc. degree in Electrical & Electronics Engineering from The American University of Sharjah, Sharjah - U.A.E. in 2001. Then he received his M.Sc. degree in Microwave Engineering from Technischen Universität München, Munich - Germany in 2004. Mr. ElSakka worked since then as Research Engineer (R&D) in Infineon Technologies (AG), Munich - Germany, where he participated in project cooperation in implementation & validation of Digital Signal Processing in simulation environment of 3G Mobile Radio Systems (WCDMA). Mr. ElSakka become part of Rohde & Schwarz (GmbH. & Co. KG) in Munich - Germany, where he tested and validated of 2-port Vector Network Analyzer VNA, including design, and fabrication of Microwave Mixers & Low Phase Noise Amplifiers for VNA modules. He also prepared system design and simulation of Breast Cancer Detection (BCD) using Electromagnetic Imaging. In 2006, he joined Huawei Technologies in U.A.E. as Solution Architect for Mobile Packet Core Networks. He led network design of GPRS and 3G network expansion projects in the Middle East. Finally, Mr. ElSakka become member of Emirates Integrated Telecommunication Company (du) as a Senior Manager of Digital Enablement, Cloud Computing and IoT Networks. His main focus is on service management, strategic planning and innovation to drive mobile data core services and digital enablement applications to the next level with emphasis on security, agility and service monetization. His current interests cover, 5G Enablers and Use Cases, 5G Physical Layer Waveforms and Multiple Access, 5G Network Slicing Strategy, Network Deployment of NB-IoT, eMTC (Cat-M1 and Cat-NB1) and IoT Platform Design for Smart Cities. He is also interested in end to end service design such as IMS, eSRVCC, VoLTE, ViLTE, VoWi-Fi with emphases on QoS and security. Mr. ElSakka is currently representing (du) in International Telecommunication Union ITU-T Study Group SG20 as an Associate Rapporteur for Q3/20 of IoT Architectures, Management, Protocols, and Quality of Service.
 
-End of Document.
+# End of Document.
